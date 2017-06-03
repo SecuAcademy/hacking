@@ -1,4 +1,4 @@
-./file			현재 디렉토리에 있는 file 파일 실행
+﻿./file			현재 디렉토리에 있는 file 파일 실행
 apt-get install		(칼리,우분투,데비안 리눅스) 패키지 설치
 cat <file>		파일의 내용 출력
 cat /etc/passwd		시스템 사용자 리스트 출력
@@ -18,6 +18,7 @@ ifconfig		네트워크 인터페이스 및 IP 주소 확인
 ip addr			IP 주소 확인
 ls 			디렉토리 내의 파일 리스트 보기
 ls -al 			디렉토리 내의 파일 리스트를 상세하게 보기
+lsb_release -a		리눅스 배포판 버전 확인
 man <command>		명령어의 매뉴얼 출력
 mkdir <dir>		디렉토리 생성
 mv <path1> <path2> 	파일 및 디렉토리 이동
